@@ -1,5 +1,8 @@
-swim
-run
-eat
-sleep
-read
+hack
+navigate
+outwit
+strategize
+communicate
+fight back
+decode
+lead

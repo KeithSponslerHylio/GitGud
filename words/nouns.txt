@@ -1,5 +1,8 @@
-chair
-couch
-sofa
-stool
-bench
+crew
+alliance
+academy
+outpost
+squadron
+rebel base
+space station
+guild

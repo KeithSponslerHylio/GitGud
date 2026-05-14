@@ -1,8 +1,8 @@
 import re
 
 # Select which story to publish (Comment out the unused stories)
-story_genre = 'fantasy'
-# story_genre = 'scifi
+# story_genre = 'fantasy'
+story_genre = 'scifi'
 
 # Ingest nouns into a list
 with open('words/nouns.txt', 'r') as f:
