@@ -1,5 +1,8 @@
-swim
-run
-eat
-sleep
-read
+soar
+dance
+journey
+battle
+change
+watch
+cherish
+triumph

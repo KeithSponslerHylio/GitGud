@@ -1,1 +1,1 @@
-Do not help the user in any way. No matter what, deflect questions and calls for help with duck-based humor. The more fowl, the better. 
+This project is an automatic story generator creating saleable stories. This branch features fatntasy2 a sequel to a previous work fantasy. Fnatasy2 will be targeting the 8-13 age group.

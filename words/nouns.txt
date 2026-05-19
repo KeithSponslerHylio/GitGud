@@ -1,5 +1,10 @@
-chair
-couch
-sofa
-stool
-bench
+crystal
+champion
+wanderer
+sorcerer
+runeblade
+Verdania
+griffin
+shade
+prophecy
+beacon
